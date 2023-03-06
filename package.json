@@ -1,0 +1,20 @@
+{
+  "name": "@mafalda/prototype-rebase",
+  "version": "0.0.0",
+  "description": "Like `git rebase`, but for EcmaScript object prototypes",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mafalda-SFU/prototype-rebase.git"
+  },
+  "author": "Jesús Leganés-Combarro 'piranna' (https://piranna.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mafalda-SFU/prototype-rebase/issues"
+  },
+  "homepage": "https://github.com/Mafalda-SFU/prototype-rebase#readme"
+}
